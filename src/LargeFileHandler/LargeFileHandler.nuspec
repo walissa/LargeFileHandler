@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BizTalkComponents.PipelineComponents.LargeFileHandler</id>
+    <version>$version$</version>
+    <title>LargeFileHandler</title>
+    <authors>Wael Alissa</authors>
+    <owners>Wael Alissa</owners>
+    <projectUrl>https://github.com/walissa/LargeFileHandler</projectUrl>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2023</copyright>
+    <tags>BizTalk</tags>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>LargeFileHandler consists of two pipeline components that helps you sending large files out without having the message body written to the MsgBox.</description>    
+  </metadata>
+  <files>
+    <file src="bin\release\BizTalkComponents.PipelineComponents.LargeFileHandler.dll" target="lib\net46"/>
+  </files>
+</package>
