@@ -1,4 +1,4 @@
-[![Build status](https://waal.visualstudio.com/BizTalk%20Components/_apis/build/status/BizTalk%20Components/LargeFileHandler)](https://waal.visualstudio.com/BizTalk%20Components/_build/latest?definitionId=21)
+[![Build status](https://dev.azure.com/waal/BizTalk%20Components/_apis/build/status/BizTalk%20Components/LargeFileHandler)](https://dev.azure.com/waal/BizTalk%20Components/_build/latest?definitionId=21)
 
 # Large File Handler
 
